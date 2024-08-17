@@ -1,0 +1,1 @@
+google-chrome-stable --explicitly-allowed-ports=10080
