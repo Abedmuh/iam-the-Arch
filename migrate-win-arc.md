@@ -36,9 +36,12 @@ context of daily mean open some stuff that u need actively on linux not running 
 
 # 3. Daily Passive Tools 
 - networkmanager, connect active instal using iwctl
-- zsh, a bash shell for rcing linux
-- oh-my-zsh, additional for zsh shell
-- power-level-10k, additional for ricing linux
+- zsh, a bash shell for rcing linux. u probably want use oh-my-zsh or power-level-10k
+- dmenu, a menu for serach app
+- feh, set background
+- usbutils, list all usb
+- alsa-utils,  Advanced Linux Sound Architecture :  
+- pulse audio, GUI soundsystem
 
 # 4. Developer
 - docker
