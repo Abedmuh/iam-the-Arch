@@ -24,15 +24,23 @@ if u are new user to linux u probably suprise hw difficult to use and somehow u 
 
 # 1. Package Manager
 a package manager, rn u probably using sudo pacman(package manager) install <app>. but yay or paru provide easy way to install and list all version of the stuff u need to install. with yay u can just type 
-``` yay -S <app>```
-flag S stand for syncronize
+```
+yay -S <app>
+```
+flag S stand for syncronize  
+if your app isnt registered on yay aur u can download it then type 
+```
+sudo pacman -U <app>
+```
+flag `U` stand for Upgrade if there new one use this too  
+and for uninstall stuff use flag `Rns`
 
 # 2. Daily Active Tools
 context of daily mean open some stuff that u need actively on linux not running in background i recommend u to use 
 - VlC, Video player
 - VScode | Vim , open text based
 - Office
-- 
+- spectacle, for screenshoot
 
 # 3. Daily Passive Tools 
 - networkmanager, connect active instal using iwctl
