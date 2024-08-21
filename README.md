@@ -41,14 +41,14 @@ sudo pacman -U <app>
 flag `U` stand for Upgrade if there new one use this too  
 and for uninstall stuff use flag `Rns` it stand for **Remove n? sync**
 
-# 2. Daily Active Tools
+### 2. Daily Active Tools
 context of daily mean open some stuff that u need actively on linux not running in background i recommend u to use 
 - VlC, Video player
 - VScode | Vim , open text based
 - Office
 - spectacle, for screenshoot
 
-# 3. Daily Passive Tools 
+### 3. Daily Passive Tools 
 - networkmanager, connect active instal using iwctl
 - zsh, a bash shell for rcing linux. u probably want use oh-my-zsh or power-level-10k
 - feh, set background
@@ -56,7 +56,7 @@ context of daily mean open some stuff that u need actively on linux not running 
 - alsa-utils,  Advanced Linux Sound Architecture :  
 - pulse audio, GUI soundsystem
 
-# 4. Developer
+### 4. Developer
 - docker
 - postman
 - vmware-workstation
