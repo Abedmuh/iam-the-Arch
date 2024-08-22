@@ -1,6 +1,6 @@
 # Linux for Normies
 
-youre about to change your OS to linux and i u have no idea what to do here a journey of using linux like normies. **What im write here is not complete guide instead ill just give some hint what u need to do u can just ask ChatGPT or Google it by your own how to install this or that.**
+youre about to change your OS to linux and i u have no idea what to do here a journey of using linux like normies. **What im write here is not complete guide instead ill just give some hint what u need to do u can just ask ChatGPT or Google it by your own how to install some stuff.**
 
 ## Instalation
 here u have linux image ready to install on your laptop. u will be guided to root linux arch
@@ -26,7 +26,7 @@ flag `-S` stand for syncronize we about to update archlinux to newest version an
 then follow all guide this should be easy as fk
 
 ## Your daily lives
-if u are new user to linux u probably suprise hw difficult to use and somehow u have no idea what u should do. in linux arch u need to set everything from sratch like network, backgrod even in some case your double click the mouse pad doesnt work. here was some daily life of thing that minght u need to install.  
+if u are new user to linux u probably suprise how difficult to use and somehow u have no idea what u should do. in linux u need to set everything from sratch like network, backgrod even in some case your double click the mouse pad doesnt work. here was some daily life of thing that minght u need to install.  
 
 ### 1. Package Manager
 a package manager, rn u probably using sudo pacman(package manager) install <app>. but yay or paru provide easy way to install and list all version of the stuff u need to install. with yay u can just type 
@@ -52,9 +52,6 @@ context of daily mean open some stuff that u need actively on linux not running 
 - networkmanager, connect active instal using iwctl
 - zsh, a bash shell for rcing linux. u probably want use oh-my-zsh or power-level-10k
 - feh, set background
-- usbutils, list all usb
-- alsa-utils,  Advanced Linux Sound Architecture :  
-- pulse audio, GUI soundsystem
 
 ### 4. Developer
 - docker
